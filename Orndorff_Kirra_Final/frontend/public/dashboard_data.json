@@ -1,0 +1,357 @@
+{
+  "metadata": {
+    "total_records": 209527,
+    "ai_records": 1527,
+    "overall_ai_saturation": 0.73,
+    "davies_bouldin_index": 1.0524,
+    "optimal_clusters": 5,
+    "chi2_statistic": 2064.02,
+    "p_value": 0.0
+  },
+  "global_top_terms": [
+    "high",
+    "video",
+    "future",
+    "photos",
+    "kids",
+    "help",
+    "digital",
+    "apple",
+    "big",
+    "facebook"
+  ],
+  "sector_saturation": [
+    {
+      "sector": "Economy",
+      "total": 7748,
+      "ai": 161,
+      "percentage": 2.08,
+      "top_terms": [
+        {
+          "term": "business",
+          "score": 0.0307
+        },
+        {
+          "term": "big",
+          "score": 0.0288
+        },
+        {
+          "term": "data",
+          "score": 0.0262
+        },
+        {
+          "term": "big data",
+          "score": 0.0257
+        },
+        {
+          "term": "work",
+          "score": 0.0253
+        },
+        {
+          "term": "jobs",
+          "score": 0.0198
+        },
+        {
+          "term": "social",
+          "score": 0.0162
+        }
+      ]
+    },
+    {
+      "sector": "Environment",
+      "total": 4066,
+      "ai": 32,
+      "percentage": 0.79,
+      "top_terms": [
+        {
+          "term": "clean",
+          "score": 0.0698
+        },
+        {
+          "term": "energy",
+          "score": 0.0675
+        },
+        {
+          "term": "nasa",
+          "score": 0.0404
+        },
+        {
+          "term": "earth",
+          "score": 0.0389
+        },
+        {
+          "term": "endangered",
+          "score": 0.0335
+        },
+        {
+          "term": "investing",
+          "score": 0.0312
+        },
+        {
+          "term": "large",
+          "score": 0.0312
+        }
+      ]
+    },
+    {
+      "sector": "Politics",
+      "total": 42565,
+      "ai": 132,
+      "percentage": 0.31,
+      "top_terms": [
+        {
+          "term": "big",
+          "score": 0.0188
+        },
+        {
+          "term": "surveillance",
+          "score": 0.0165
+        },
+        {
+          "term": "facebook",
+          "score": 0.0164
+        },
+        {
+          "term": "democrats",
+          "score": 0.015
+        },
+        {
+          "term": "phones",
+          "score": 0.0126
+        },
+        {
+          "term": "police",
+          "score": 0.0125
+        },
+        {
+          "term": "privacy",
+          "score": 0.0119
+        }
+      ]
+    },
+    {
+      "sector": "Pop Culture",
+      "total": 23836,
+      "ai": 95,
+      "percentage": 0.4,
+      "top_terms": [
+        {
+          "term": "video",
+          "score": 0.031
+        },
+        {
+          "term": "film",
+          "score": 0.0229
+        },
+        {
+          "term": "review",
+          "score": 0.0196
+        },
+        {
+          "term": "strikes",
+          "score": 0.0183
+        },
+        {
+          "term": "real",
+          "score": 0.0179
+        },
+        {
+          "term": "weiwei",
+          "score": 0.017
+        },
+        {
+          "term": "future",
+          "score": 0.017
+        }
+      ]
+    },
+    {
+      "sector": "Technology",
+      "total": 4310,
+      "ai": 288,
+      "percentage": 6.68,
+      "top_terms": [
+        {
+          "term": "apple",
+          "score": 0.0265
+        },
+        {
+          "term": "google",
+          "score": 0.0173
+        },
+        {
+          "term": "iphone",
+          "score": 0.015
+        },
+        {
+          "term": "facebook",
+          "score": 0.0148
+        },
+        {
+          "term": "rising",
+          "score": 0.0129
+        },
+        {
+          "term": "companies",
+          "score": 0.0116
+        },
+        {
+          "term": "valley",
+          "score": 0.0114
+        }
+      ]
+    }
+  ],
+  "saturation_timeline": [
+    {
+      "year": "2012",
+      "Politics": 0.0,
+      "Pop Culture": 0.66,
+      "Economy": 0.38,
+      "Technology": 7.22,
+      "Environment": 0.62
+    },
+    {
+      "year": "2013",
+      "Politics": 0.0,
+      "Pop Culture": 0.73,
+      "Economy": 1.4,
+      "Technology": 7.65,
+      "Environment": 0.46
+    },
+    {
+      "year": "2014",
+      "Politics": 0.35,
+      "Pop Culture": 0.48,
+      "Economy": 2.26,
+      "Technology": 2.68,
+      "Environment": 1.01
+    },
+    {
+      "year": "2015",
+      "Politics": 0.33,
+      "Pop Culture": 0.42,
+      "Economy": 3.58,
+      "Technology": 7.06,
+      "Environment": 0.68
+    },
+    {
+      "year": "2016",
+      "Politics": 0.3,
+      "Pop Culture": 0.33,
+      "Economy": 3.31,
+      "Technology": 6.87,
+      "Environment": 0.79
+    },
+    {
+      "year": "2017",
+      "Politics": 0.3,
+      "Pop Culture": 0.21,
+      "Economy": 2.96,
+      "Technology": 10.81,
+      "Environment": 1.29
+    },
+    {
+      "year": "2018",
+      "Politics": 0.33,
+      "Pop Culture": 0.38,
+      "Economy": 2.02,
+      "Technology": 2.86,
+      "Environment": 0.0
+    },
+    {
+      "year": "2019",
+      "Politics": 0.47,
+      "Pop Culture": 0.0,
+      "Economy": 10.71,
+      "Technology": 10.0,
+      "Environment": 0.0
+    },
+    {
+      "year": "2020",
+      "Politics": 0.32,
+      "Pop Culture": 0.48,
+      "Economy": 0.0,
+      "Technology": 0.0,
+      "Environment": 0.0
+    },
+    {
+      "year": "2021",
+      "Politics": 0.29,
+      "Pop Culture": 0.0,
+      "Economy": 0.0,
+      "Technology": 0.0,
+      "Environment": 0.0
+    },
+    {
+      "year": "2022",
+      "Politics": 0.0,
+      "Pop Culture": 0.37,
+      "Economy": 0.0,
+      "Technology": 6.25,
+      "Environment": 0.0
+    }
+  ],
+  "clusters": [
+    {
+      "id": 0,
+      "name": "AI Policy & Governance",
+      "count": 1457,
+      "terms": [
+        "video",
+        "future",
+        "photos",
+        "high",
+        "kids"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Market Automation & Economy",
+      "count": 18,
+      "terms": [
+        "don",
+        "love",
+        "don want",
+        "want",
+        "list"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Media & Consumer AI Apps",
+      "count": 26,
+      "terms": [
+        "big",
+        "big data",
+        "data",
+        "meets",
+        "privacy"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Robotics & Autonomous Systems",
+      "count": 12,
+      "terms": [
+        "trends",
+        "trends watch",
+        "watch",
+        "wearable",
+        "small"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Machine Learning Research & Science",
+      "count": 14,
+      "terms": [
+        "silicon valley",
+        "silicon",
+        "valley",
+        "secrets",
+        "trafficking"
+      ]
+    }
+  ]
+}
